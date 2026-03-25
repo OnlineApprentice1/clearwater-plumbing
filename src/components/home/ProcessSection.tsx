@@ -58,10 +58,10 @@ export default function ProcessSection() {
     <div className="section-compact section-bg-gradient">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <Reveal animation="clip-reveal">
-          <h2 className="type-section text-center mb-4">How We Work</h2>
+          <h2 className="type-section mb-4">How We Work</h2>
         </Reveal>
         <Reveal animation="clip-reveal" delay={0.08}>
-          <p className="type-body-lg text-center text-base-content/70 mb-12 max-w-2xl mx-auto">
+          <p className="type-body-lg text-base-content/70 mb-12 max-w-2xl">
             Four simple steps from call to completion. No surprises.
           </p>
         </Reveal>

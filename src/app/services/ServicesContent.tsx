@@ -32,7 +32,7 @@ const services = [
     icon: Flame,
     tab: "Water Heaters",
     description:
-      "Whether you need a new tank, a tankless upgrade, or a repair to your existing unit, we install and service all major brands with proper permits and inspections.",
+      "From tank replacements to tankless upgrades and emergency repairs, we install and service all major brands with proper permits and inspections.",
     features: [
       "Tank and tankless options",
       "Energy-efficiency assessment",

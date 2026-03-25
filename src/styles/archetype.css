@@ -53,7 +53,7 @@
   border-top-color: color-mix(in oklch, white 18%, transparent);
   border-left-color: color-mix(in oklch, white 14%, transparent);
   border-radius: 1.25rem;
-  box-shadow: 0 8px 32px oklch(0% 0 0 / 0.15);
+  box-shadow: 0 8px 32px color-mix(in oklch, var(--clr-surface-1) 40%, transparent);
 }
 
 /* ── Water Caustic Pattern ──

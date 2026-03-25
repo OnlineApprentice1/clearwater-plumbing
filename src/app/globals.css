@@ -4,6 +4,8 @@
 @import "../styles/profile.css";
 @import "../styles/archetype.css";
 
+/* DaisyUI theme defined in colour-tokens.css via @plugin "daisyui/theme" */
+
 @theme inline {
   --color-background: var(--clr-surface-1);
   --color-foreground: var(--clr-text-primary);
